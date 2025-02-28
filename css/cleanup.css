@@ -1,1 +1,13 @@
-/* write your override styles here */
+#wall .tag-3 {
+    background:blueviolet;/* write your override styles here */
+    background-color: cadetblue;
+}
+title {
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tag-7 {
+    text-align: center;
+    border-radius: 50px;
+    display: block;
+}
